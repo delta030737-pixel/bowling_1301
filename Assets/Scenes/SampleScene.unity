@@ -133,7 +133,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -230,7 +230,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!114 &166949398
 MonoBehaviour:
@@ -333,7 +333,7 @@ Transform:
   m_GameObject: {fileID: 166949396}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -11.18}
+  m_LocalPosition: {x: 0, y: 1.5, z: -11.18}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -353,7 +353,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -490,8 +490,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.17003703, y: -0.31264168, z: 0.056991115, w: -0.9327886}
-  m_LocalPosition: {x: -10.2968645, y: 7.976769, z: -19.761251}
+  m_LocalRotation: {x: -0.0029998124, y: 0.0015002489, z: 0.000004455447, w: 0.9999944}
+  m_LocalPosition: {x: 0, y: 4, z: -19}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -682,7 +682,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -752,7 +752,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1156,7 +1156,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1231762818}
   serializedVersion: 5
-  m_Mass: 0.1
+  m_Mass: 0.01
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -1189,7 +1189,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1248,7 +1248,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 423255085}
   serializedVersion: 5
-  m_Mass: 0.1
+  m_Mass: 0.01
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -1280,7 +1280,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1551865078}
   serializedVersion: 5
-  m_Mass: 0.1
+  m_Mass: 0.01
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -1452,7 +1452,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1713783556}
   serializedVersion: 5
-  m_Mass: 0.1
+  m_Mass: 0.01
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -1484,7 +1484,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1771294845}
   serializedVersion: 5
-  m_Mass: 0.1
+  m_Mass: 0.01
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -1554,7 +1554,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 1014218310625913661, guid: f94bf5218651b0c49927a4a61e7e520d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1613,7 +1613,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 486636357}
   serializedVersion: 5
-  m_Mass: 0.1
+  m_Mass: 0.01
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
